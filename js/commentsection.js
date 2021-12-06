@@ -117,6 +117,14 @@ $(document).ready(function(){
 	
 });
 
+function ClearFields(){
+
+	setTimeout(function (){
+		document.getElementById("name").value = "";
+		 document.getElementById("bodyText").value = "";
+	}, 50);
+}
+
 
 
 
