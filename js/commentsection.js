@@ -76,6 +76,16 @@ $(document).ready(function(){
 	{"name" : "Tkfdog1", "date":"September 3, 2021" , "body":"the dumps hit perfectly, tyvm"},
 	{"name" : "jburlons", "date":"September 12, 2021" , "body":"Hi can i know is the UK passport still available?"},
 	{"name" : "sam", "date":"September 25, 2021" , "body":"Thanks greatttt seller!!!"},
+	{"name" : "krupxslurp", "date":"October 11, 2021" , "body":"Received my passport today and it just super real man, damm you are genius"},
+	{"name" : "cburke82", "date":"October 13, 2021" , "body":"dear admin, im looking for icbc bin"},
+	{"name" : "Geddy1033", "date":"November 2, 2021" , "body":"Great seller, more than what I expected"},
+	{"name" : "TehBananaBread", "date":"November 6, 2021" , "body":"amazing dealers tysm"},
+	{"name" : "sylsau", "date":"November 19, 2021" , "body":"AWESOME, highly recommended"},
+	{"name" : "yahuurdmme", "date":"November 22, 2021" , "body":"100% legit and trussted seller"},
+	{"name" : "Newmov69", "date":"December 6, 2021" , "body":"all items received in good condition"},
+	
+
+	
 
 	
 	
